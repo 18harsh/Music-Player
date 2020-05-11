@@ -1,5 +1,6 @@
 *Run The main.py File
 # Music-Player
+Music player. Made with PyQt5
 
 # Requirements
 PyQt5
